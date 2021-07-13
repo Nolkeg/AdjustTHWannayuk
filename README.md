@@ -5,10 +5,10 @@ PackageManager > Add package from git URL... > https://github.com/Nolkeg/AdjustT
 
 # How to use
 ### Quick
-Right click at the FontAsset > AdjustTHSara
+Right click at the FontAsset > AdjustWannayuk
 
 ### Manual
-Windows > TextMeshPro > AdjustTHSara
+Windows > TextMeshPro > AdjustWannayuk
 
 ### Test
 You can copy paste the below text into TMP component to test whether the Wannayuks behave correctly. Or just import the sample package in Sample folder.
