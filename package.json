@@ -1,0 +1,14 @@
+{
+  "name": "com.jiraphat.adjustthwannayuk",
+  "displayName": "AdjustTHWannayuk",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.0.0"
+  },
+  "author": {
+    "email": "jiraphat.ora@gmail.com",
+    "name": "jiraphat"
+  }
+}
+  
