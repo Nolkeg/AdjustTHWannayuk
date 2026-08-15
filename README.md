@@ -1,3 +1,6 @@
+Note : 2026/08/15
+If you are serious about localization to Thai. Please consider using this plugin https://unity.lightside.media/en/unitext instead.
+
 # Adjust Thai Wannayuk
 This is an editor utility script to help adjusting Thai language wannayuk position of TMP_FontAsset.
 # How to install
